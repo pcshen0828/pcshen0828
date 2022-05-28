@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi! I'm Michelle :cat2:
 
+A Front-End devolper dedicates on creating a better user experience.
+
+### Currently Work With
+
+
+
+### Contact
+
+michelleshen0828@gmail.com
 <!--
 **pcshen0828/pcshen0828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
