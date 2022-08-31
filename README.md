@@ -8,6 +8,7 @@ A Front-End developer dedicates on creating a better user experience. With eager
 ![CSS](./icons/css.svg)
 ![JS](./icons/js.svg)
 ![React](./icons/react.svg)
+![Redux](./icons/redux.svg)
 ![CRA](./icons/cra.svg)
 ![Firebase](./icons/firebase.svg)
 ![Git](./icons/git.svg)
