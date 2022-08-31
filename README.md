@@ -10,8 +10,11 @@ A Front-End developer dedicates on creating a better user experience. With eager
 ![React](./icons/react.svg)
 ![Redux](./icons/redux.svg)
 ![CRA](./icons/cra.svg)
+![GraphQL](./icons/graphql.svg)
+![Postman](./icons/postman.svg)
 ![Firebase](./icons/firebase.svg)
 ![Git](./icons/git.svg)
+![Figma](./icons/figma.svg)
 
 ### Contact
 
