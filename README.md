@@ -1,6 +1,6 @@
-### Hi! I'm Michelle :cat2:
+### Hi! I'm Michelle 👋:
 
-A Front-End developer dedicates on creating a better user experience. With eager to explore new things.
+A Front-End developer dedicates on creating products that bring good user experience and commercial value.
 
 ### Currently Work With
 
