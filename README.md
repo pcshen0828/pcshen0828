@@ -1,4 +1,4 @@
-### Hi! I'm Michelle 👋:
+### Hi! I'm Michelle 👋
 
 A Front-End developer dedicates on creating products that bring good user experience and commercial value.
 
@@ -6,6 +6,7 @@ A Front-End developer dedicates on creating products that bring good user experi
 
 ![HTML](./icons/html.svg)
 ![CSS](./icons/css.svg)
+![TS](./icons/ts.svg)
 ![JS](./icons/js.svg)
 ![React](./icons/react.svg)
 ![Redux](./icons/redux.svg)
