@@ -1,6 +1,6 @@
 ### Hi! I'm Michelle 👋
 
-A Front-End developer dedicates on creating products that bring good user experience and commercial value.
+A frontend engineer dedicates on creating products that bring good user experience and commercial value.
 
 ### Currently Work With
 
